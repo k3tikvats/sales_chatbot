@@ -96,3 +96,7 @@ backend/.env/
 # Temporary files
 *.tmp
 *.temp
+API_DOCUMENTATION.md
+DEPLOYMENT.md
+GEMINI_INTEGRATION.md
+PROJECT_SUMMARY.md
